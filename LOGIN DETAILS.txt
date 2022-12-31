@@ -1,0 +1,14 @@
+
+**Admin Login Details**
+
+Email   : admin@gmail.com
+Password: Password@123
+
+**Employee Login**
+
+Email   : 5555
+Password: 5555
+
+
+
+
